@@ -1,0 +1,2 @@
+# Python-Dashboard-with-Flask-Framework
+This repository consists of Python dashboard using Popular Micro services Framework known as Flask. We used MCB (Muslim Commercial Bank) waste dataset. This waste is dry waste and comprises of different categories like Cardboard, Paper, Plastic, RDF, etc. In this dashboard we used bootstrap library, jquery, jquery DataTable,. Detail work is done with Jupyter notebook.
