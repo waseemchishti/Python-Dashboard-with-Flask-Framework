@@ -8,4 +8,5 @@ This repository consists of Python dashboard using Popular Micro services Framew
 5. Run the application all cells 
 6. type the following url in your web browser http://127.0.0.1:8000/mcb-dashboard/jail
 7. Click to view the complete pandas prfiliong dataset exploratory analysis report
+8. Go back to view the main page again
 8. .............Enjoy and Follow me...............
